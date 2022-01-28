@@ -1,0 +1,36 @@
+body
+{
+    background-color:powderblue;
+}
+
+#score
+{
+ font-size: 23px;
+ margin-left: 30px;
+ font-weight: 900;
+}
+
+#timer
+{
+    font-size: 23px;
+    margin-right: 95px;
+    float:right;
+    font-weight: 900;
+}
+
+#sketchtobedrawn
+{
+    font-size: 30px;
+    font-weight: 300;
+}
+
+#confidence
+{
+    font-weight: 643;
+    font-size: 23px;
+}
+
+canvas {
+    margin-top: 100;
+    margin-left: 360;
+}
